@@ -33,6 +33,6 @@ And in your code editor run this program or open on your desktop and double clic
 <img src="Tabuada 1.PNG">
 
 <h2 id="TV">:copyright: Following</h2>
-- <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Playlist de JavaScipt</a>
-- <a href="https://github.com/cursoemvideo">Curso em video</a>
-- <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a> 
+- <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Playlist de JavaScipt</a><br>
+- <a href="https://github.com/cursoemvideo">Curso em video</a><br>
+- <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a><br> 
